@@ -153,11 +153,7 @@ PART 8 — Advanced Extension Tasks (Choose One) Option A: Peer Influence
 
 ![Base Model](image.png)
 
- I selected Option A because it directly addresses what I identified as the most significant missing factor in Part 7. The following reflex would be added within the student species.
-
-    After implementing this reflex, it is expected that students who initially begin near peers with high attention levels will receive a +0.01 increase in attention during each cycle, which will accumulate over time. After approximately 100 cycles, two distinct groups are likely to emerge: a cluster of high-attention students and a cluster of low-attention students. These groupings would primarily depend on the students’ initial physical proximity to one another. This outcome reflects emergent behavior driven by local interactions, which is a fundamental characteristic that agent-based modeling (ABM) aims to represent.
-
-    Furthermore, this extension enhances the significance of the mobility reflex. Students who move toward highly engaged peers may benefit from increases in attention, whereas those who move toward less engaged areas may lose this advantage. Consequently, movement is no longer merely a visual component but becomes a meaningful behavioral variable within the model.
+ I selected Option A because it directly addresses what I identified as the most significant missing factor in Part 7. The following reflex would be added within the student species. After implementing this reflex, it is expected that students who initially begin near peers with high attention levels will receive a +0.01 increase in attention during each cycle, which will accumulate over time. After approximately 100 cycles, two distinct groups are likely to emerge: a cluster of high-attention students and a cluster of low-attention students. These groupings would primarily depend on the students’ initial physical proximity to one another. This outcome reflects emergent behavior driven by local interactions, which is a fundamental characteristic that agent-based modeling (ABM) aims to represent.   Furthermore, this extension enhances the significance of the mobility reflex. Students who move toward highly engaged peers may benefit from increases in attention, whereas those who move toward less engaged areas may lose this advantage. Consequently, movement is no longer merely a visual component but becomes a meaningful behavioral variable within the model.
 
 Submission Requirements
 Students must submit:
@@ -174,4 +170,5 @@ Students must submit:
     Data Analysis	            20
     Interpretation & Reflection	20
     Advanced Extension	        20
+
 
